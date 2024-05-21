@@ -1,0 +1,5 @@
+scikit-learn==1.3.2
+pandas
+joblib
+streamlit_option_menu
+streamlit
