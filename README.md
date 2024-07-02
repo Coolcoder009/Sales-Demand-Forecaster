@@ -46,5 +46,5 @@ Find the forecasted results here https://sales-demand-forecaster.onrender.com/ f
 ### Screenshots
 <br><br><br>
 ![UI Page](https://github.com/Coolcoder009/Sales-Demand-Forecaster/blob/main/Screenshot%202024-04-23%20123308.jpg?raw=true)
-![Image Description](https://github.com/Coolcoder009/Machine-Learning-Projects/blob/main/Sales_Demand_Forecaster/Screenshot%202024-04-23%20123336.jpg?raw=true)
+![Image Description](https://github.com/Coolcoder009/Sales-Demand-Forecaster/blob/main/Screenshot%202024-04-23%20123336.jpg?raw=true)
 
